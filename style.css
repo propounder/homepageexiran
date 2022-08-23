@@ -13,3 +13,9 @@ body
 .image-wrapper{
   width: 100px;
   height: 100px;}
+
+@media screen and (min-width: 800px) {
+#previثw{
+width:60vw;
+}
+}
