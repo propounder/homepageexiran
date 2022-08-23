@@ -19,3 +19,7 @@ body
 width:80vw;
 }
 }
+.coinPriceBlock-container
+{
+  overflow-x: hidden;
+}
