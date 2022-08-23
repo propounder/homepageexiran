@@ -14,8 +14,8 @@ body
   width: 100px;
   height: 100px;}
 
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
 #preview{
-width:60vw;
+width:80vw;
 }
 }
